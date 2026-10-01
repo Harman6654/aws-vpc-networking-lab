@@ -18,7 +18,7 @@ This lab provided hands-on experience with AWS networking, subnet segmentation, 
 
 ## Architecture
 
-![AWS VPC Networking Architecture](architecture/aws-vpc-networking-architecture.png)
+![AWS VPC Networking Architecture](architecture/Diagram.png)
 
 ### Network Design
 
